@@ -1,7 +1,5 @@
-/* ========== Google Fonts =========== */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 
-/* ========== CSS Variables =========== */
 :root {
   --primary-color: #f94a3d;
   --yellow-color: #ffcf03;
@@ -95,7 +93,6 @@ img {
   height: auto;
 }
 
-/* ========== Custom Classes =========== */
 .container {
   max-width: 120rem;
   padding: 0 3rem;
@@ -112,8 +109,6 @@ img {
   display: flex;
   align-items: center;
 }
-
-/* ========== Header =========== */
 .header {
   min-height: 100vh;
   background: linear-gradient(
@@ -286,7 +281,6 @@ img {
   }
 }
 
-/* ========== Home =========== */
 .header .home {
   height: calc(100vh - 8.5rem);
 
@@ -412,7 +406,6 @@ img {
   }
 }
 
-/* ========== SignIn Form =========== */
 .header .wrapper {
   position: fixed;
   top: 0;
@@ -518,7 +511,6 @@ img {
   }
 }
 
-/* ========== Services =========== */
 .services {
   padding: 10rem 0 10rem;
 
@@ -576,7 +568,6 @@ img {
   }
 }
 
-/* ========== about =========== */
 .about {
   background-color: var(--grey-color-1);
   padding: 10rem 0 10rem;
@@ -670,7 +661,6 @@ img {
   }
 }
 
-/* ========== Recipes =========== */
 * Special Recepies Section */ #Special-Recipes {
   margin-top: 50px;
   display: flex;
@@ -752,7 +742,6 @@ img {
   font-size: 14px;
   font-weight: 500;
   line-height: 20px;
-  /* 142.857% */
   border-radius: 10px;
   border: 1.5px solid #f94a3d;
   transition: 0.5s ease;
@@ -767,7 +756,6 @@ img {
   text-align: center;
 }
 
-/* ========== Testimonials =========== */
 .testimonials {
   padding: 10rem 0 10rem;
   background-color: var(--grey-color-1);
@@ -941,7 +929,6 @@ img {
   }
 }
 
-/* ========== App =========== */
 .app {
   padding: 10rem 0 20rem;
 }
@@ -1053,7 +1040,6 @@ img {
   }
 }
 
-/* ========== Footer =========== */
 .footer {
   background: linear-gradient(
     145deg,
