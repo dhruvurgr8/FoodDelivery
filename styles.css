@@ -291,7 +291,9 @@ img {
     width: 15rem;
   }
 }
-
+.home {
+  margin-top: 100px;
+}
 .header .home {
   height: calc(100vh - 8.5rem);
 
